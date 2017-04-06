@@ -95,10 +95,10 @@
  * and removed from panel tab containers as the mouse enters and exits the tab container.
  */
 .AccordionPanelTabHover {
-	color: #fff;
+	color: #000;
 }
 .AccordionPanelOpen .AccordionPanelTabHover {
-	color: #fff;
+	color: #000;
 }
 
 /* This is an example of how to change the appearance of all the panel tabs when the
